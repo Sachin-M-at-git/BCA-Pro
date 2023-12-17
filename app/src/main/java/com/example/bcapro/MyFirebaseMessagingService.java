@@ -1,6 +1,6 @@
-package com.example.bcaii;
+package com.example.bcapro;
 
-import static com.example.bcaii.R.drawable.nlogo;
+import static com.example.bcapro.R.drawable.nlogo;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

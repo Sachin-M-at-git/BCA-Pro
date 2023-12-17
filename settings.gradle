@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         jcenter()
     }
 }
-rootProject.name = "BCA II"
+rootProject.name = "BCA Pro"
 include ':app'

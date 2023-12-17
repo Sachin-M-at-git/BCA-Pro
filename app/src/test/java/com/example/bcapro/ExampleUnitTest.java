@@ -1,4 +1,4 @@
-package com.example.bcaii;
+package com.example.bcapro;
 
 import org.junit.Test;
 

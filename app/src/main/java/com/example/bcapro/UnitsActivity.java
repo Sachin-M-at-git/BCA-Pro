@@ -1,4 +1,4 @@
-package com.example.bcaii;
+package com.example.bcapro;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
