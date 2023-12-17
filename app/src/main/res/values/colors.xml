@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="RoyalBlue">#FF4169E1</color>
+    <color name="dark">#121B22</color>
+    <color name="lightdark">#1F2C34</color>
+    <color name="BcaProBack">#100F1F</color>
+</resources>

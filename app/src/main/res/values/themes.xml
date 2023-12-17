@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BCAII" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/lightdark</item>
+    </style>
+
+    <style name="Theme.BCAII" parent="Base.Theme.BCAII" />
+
+    <!--Light mode-->
+    <!--Screen Background if light mode is on-->
+    <style name="SCREEN">
+        <item name="android:background">@color/dark</item>
+    </style>
+
+    <!--Text background if light mode is on-->
+    <style name="TEXT">
+        <item name="android:textColor">#CCD1D4</item>
+    </style>
+
+    <!--Texttab background if light mode is on-->
+    <style name="TEXTTAB">
+        <item name="android:background">@color/lightdark</item>
+    </style>
+
+    <!--button background if light mode is on-->
+</resources>

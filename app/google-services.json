@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259198994972",
+    "project_id": "bca-ii-pro",
+    "storage_bucket": "bca-ii-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259198994972:android:24ec36afca3c884e12edd9",
+        "android_client_info": {
+          "package_name": "com.example.bcaii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOZmjSyOrbYnUfqsj7IMBvtIbNjOuXBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
